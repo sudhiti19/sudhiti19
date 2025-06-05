@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Animal and Pedestrian Detection for Road Safety**
 - 🌱 I’m learning **FastAPI, PostgreSQL, Agentic AI**
 - 💬 Ask me about **Python, Django, GenAI**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sudhiti-khar-2343b6229) 
 
 ---
 
@@ -19,18 +19,13 @@
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhitikhar&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhiti19&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhitikhar&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudhitikhar&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhiti19&layout=compact&theme=radical)
 
 ---
+
 
 ### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudhitikhar&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudhiti19&theme=radical)](https://git.io/streak-stats)
